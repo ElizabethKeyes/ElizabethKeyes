@@ -7,7 +7,10 @@ My name is Elizabeth. I'm a software developer with a passion for logical thinki
 * 🧑‍💻 My strongest languages/frameworks include HTML, CSS, Bootstrap, JavaScript (including NodeJs and MVC structure), and C# (.NET)
 * 💾 Familiar with document & table database structure, primarily MongoDB and MySQL.
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,cs,dotnet,github,html,js,mongodb,mysql,nodejs,postman,powershell,vscode,vue)](https://skillicons.dev)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,css,cs,dotnet,github,html,js,mongodb,mysql,nodejs,postman,powershell,vscode,vue">
+</div>
+<!-- [![My Skills](https://skillicons.dev/icons?i=bootstrap,css,cs,dotnet,github,html,js,mongodb,mysql,nodejs,postman,powershell,vscode,vue)](https://skillicons.dev) -->
 
 ### Get in touch with me!
 * 📨 liz4momentum@gmail.com
