@@ -22,6 +22,6 @@ My name is Elizabeth. I'm a software developer with a passion for logical thinki
 * 🧭 I like getting outside to hike, bike, and camp. I'm also a geocaching enthusiast with finds in 10 states and counting!
 * 🪂 I've been known to be a thrill-seeker at times, I've been both skydiving and bungee jumping!
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ElizabethKeyes">
-</div>
+</div> -->
