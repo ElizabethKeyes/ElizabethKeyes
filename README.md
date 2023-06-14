@@ -18,7 +18,7 @@ My name is Elizabeth. I'm a software developer with a passion for logical thinki
 
 ### About Me
 
-* 🧩 I'm a puzzle lover, including jigsaw, Rubik's, and just about any brainteaser
+* 🧩 I'm a puzzle lover, including jigsaw, Rubik's, and just about any brainteaser.
 * 🧭 I like getting outside to hike, bike, and camp. I'm also a geocaching enthusiast with finds in 10 states and counting!
 * 🪂 I've been known to be a thrill-seeker at times, I've been both skydiving and bungee jumping!
 
